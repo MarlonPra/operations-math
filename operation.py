@@ -8,7 +8,7 @@ correct = 0
 root = Tk()  # definimos que root es TK()
 root.title("Math Operations")  # Cambiar el nombre de la ventana
 root.geometry("720x480")  # Configurar tamaño
-root.iconbitmap("math.ico")  # Cambiar el icono
+root.iconbitmap("img/math.ico")  # Cambiar el icono
 root.config(bg="#fcd46c")  # Cambiar color de fondo
 root.resizable(0, 0)  # obliga a que la ventana no se pueda cambiar de tamaño
 
@@ -79,7 +79,7 @@ def validar(resultado, cajatexto2):
         verd.title("CORRECTO")
         verd.geometry("250x150")
         verd.config(bg="#1AE128")
-        verd.iconbitmap("math.ico")
+        verd.iconbitmap("img/math.ico")
         verd.resizable(0, 0)
         textval = tk.Label(verd, font="robot 18",
                            justify="center", text="Respuesta Correcta")
@@ -105,7 +105,7 @@ def validar(resultado, cajatexto2):
         fal.title("INCORRECTO")
         fal.geometry("250x150")
         fal.config(bg="#F43131")
-        fal.iconbitmap("math.ico")
+        fal.iconbitmap("img/math.ico")
         fal.resizable(0, 0)
         textfal = tk.Label(fal, font="robot 18",
                            justify="center", text="Respuesta Incorrecta")
