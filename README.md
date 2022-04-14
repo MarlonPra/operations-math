@@ -1,6 +1,8 @@
 # **Operation Math (Beta)** 
 
-<a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 5px;"> <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" style="border-radius: 5px;"> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg">
+<a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 5px;"> <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" style="border-radius: 5px;">
 
 
 
@@ -43,3 +45,5 @@ Para descargar el programa dale click [aquí](https://github.com/MarlonPra/opera
 #### Autor:
 #### :shipit: **MarlonPra** :shipit:
 <a href="https://github.com/MarlonPra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://twitter.com/MarlonPraYT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonPra)](https://github.com/MarlonPra/github-readme-stats)
