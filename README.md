@@ -2,7 +2,7 @@
 
 <a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg">
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 5px;"> <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" style="border-radius: 5px;">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" border-radius= "5px"> <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" style="border-radius: 5px;">
 
 
 
