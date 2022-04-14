@@ -1,8 +1,8 @@
-# **Operation Math (Beta)** 
+<center> <h1> **Operation Math (Beta)** </h1> </center> 
 
-<a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg">
+<center> <a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg"> </center>
 
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<center><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></center>
 
 
 
@@ -46,4 +46,5 @@ Para descargar el programa dale click [aquí](https://github.com/MarlonPra/opera
 #### :shipit: **MarlonPra** :shipit:
 <a href="https://github.com/MarlonPra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://twitter.com/MarlonPraYT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonPra)](https://github.com/MarlonPra/github-readme-stats)
+
+<center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonPra)](https://github.com/MarlonPra/github-readme-stats"> </center>
