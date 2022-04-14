@@ -23,7 +23,7 @@ Para descargar el programa dale click [aquí](https://github.com/MarlonPra/opera
 # Dependencias
 - [Python](https://www.python.org/downloads/) ![](img/python.ico)
 
-# How Use?
+# ¿Como Usar?
 **En la parte inicial tendras que poner tú nombre para que quede registrado, despues tendras que comenzar a resolver 10 problemas matematicos para que al final te diga el resultado**
 
 ------------
