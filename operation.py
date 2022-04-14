@@ -185,7 +185,7 @@ def resetfal():
             textofin2["text"] = "Usted tuvo " + str(
                 correct) + " operacion(es) correctas de 10"
         else:
-            textofin2["text"] = "Usted no tuvo ninguna bien, esfuerzate más"
+            textofin2["text"] = "Usted no tuvo ninguna bien"
         botoncerrar = tk.Button(
             root, text="Salir", font="robot 20", padx="20", pady="5", command=lambda: (root.destroy()))
         botoncerrar.pack(pady="30")
