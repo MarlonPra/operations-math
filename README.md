@@ -1,4 +1,4 @@
-<center> <h1> **Operation Math (Beta)** </h1> </center> 
+<center> <h1> Operation Math (Beta) </h1> </center> 
 
 <center> <a href="https://github.com/MarlonPra/operations-math/issues"><img src="https://img.shields.io/github/issues/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math/fork"><img src="https://img.shields.io/github/forks/MarlonPra/operations-math"></a> <a href="https://github.com/MarlonPra/operations-math"><img src="https://img.shields.io/github/stars/MarlonPra/operations-math"></a> <img src="https://img.shields.io/github/watchers/MarlonPra/operations-math.svg"> </center>
 
