@@ -6,7 +6,7 @@ i = 0
 correct = 0
 # Ventana GUI
 root = Tk()  # definimos que root es TK()
-root.title("Operation 1.0")  # Cambiar el nombre de la ventana
+root.title("Math Operations")  # Cambiar el nombre de la ventana
 root.geometry("720x480")  # Configurar tamaño
 root.iconbitmap("math.ico")  # Cambiar el icono
 root.config(bg="#fcd46c")  # Cambiar color de fondo
@@ -16,7 +16,7 @@ texto1 = tk.Label(root, text="Introduce tu nombre",
                   font="robot 30 bold", justify="center")
 texto1.config(bg="#fcd46c")
 cajatexto = tk.Entry(root, font="robot 30", justify="center")
-boton1 = tk.Button(root, text="Prueba esconder", padx="30",
+boton1 = tk.Button(root, text="Enviar", padx="30",
                    pady="30", justify="center", command=lambda: (calculator()))
 texto1.pack(pady="10")
 cajatexto.pack(pady="50")
@@ -79,6 +79,7 @@ def validar(resultado, cajatexto2):
         verd.title("CORRECTO")
         verd.geometry("250x150")
         verd.config(bg="#1AE128")
+        verd.iconbitmap("math.ico")
         verd.resizable(0, 0)
         textval = tk.Label(verd, font="robot 18",
                            justify="center", text="Respuesta Correcta")
@@ -104,6 +105,7 @@ def validar(resultado, cajatexto2):
         fal.title("INCORRECTO")
         fal.geometry("250x150")
         fal.config(bg="#F43131")
+        fal.iconbitmap("math.ico")
         fal.resizable(0, 0)
         textfal = tk.Label(fal, font="robot 18",
                            justify="center", text="Respuesta Incorrecta")
@@ -185,7 +187,7 @@ def resetfal():
             textofin2["text"] = "Usted tuvo " + str(
                 correct) + " operacion(es) correctas de 10"
         else:
-            textofin2["text"] = "Usted no tuvo ninguna bien"
+            textofin2["text"] = "Usted no tuvo ninguna bien, esfuerzate más"
         botoncerrar = tk.Button(
             root, text="Salir", font="robot 20", padx="20", pady="5", command=lambda: (root.destroy()))
         botoncerrar.pack(pady="30")
